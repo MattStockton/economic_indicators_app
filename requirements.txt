@@ -1,0 +1,7 @@
+streamlit==1.22.0
+yfinance==0.2.18
+plotly==5.14.1
+fredapi==0.5.1
+numpy==1.23.5
+requests==2.26.0
+beautifulsoup4==4.11.1
